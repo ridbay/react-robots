@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-robots/static/css/main.029d304c.chunk.css",
+    "main.js": "/react-robots/static/js/main.228bb249.chunk.js",
+    "main.js.map": "/react-robots/static/js/main.228bb249.chunk.js.map",
+    "runtime~main.js": "/react-robots/static/js/runtime~main.d170d28d.js",
+    "runtime~main.js.map": "/react-robots/static/js/runtime~main.d170d28d.js.map",
+    "static/js/2.65aa1cca.chunk.js": "/react-robots/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/react-robots/static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "/react-robots/index.html",
+    "precache-manifest.9301fdddbfba2a59f3147b2df0fcd850.js": "/react-robots/precache-manifest.9301fdddbfba2a59f3147b2df0fcd850.js",
+    "service-worker.js": "/react-robots/service-worker.js",
+    "static/css/main.029d304c.chunk.css.map": "/react-robots/static/css/main.029d304c.chunk.css.map"
+  }
+}
